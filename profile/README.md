@@ -1,12 +1,20 @@
 ## Hi there 👋
 
-<!--
+### Just Another Organization Created by [@Gauravst](https://github.com/Gauravst)
 
-**Here are some ideas to get you started:**
+### Here you'll find various projects—some good, some bad, some useful, and some not so much.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Think of it as the second profile of [@Gauravst](https://github.com/Gauravst).
+
+## Connect with Gauravst
+
+- [GitHub Profile](https://github.com/Gauravst)
+- [Twitter](https://x.com/Commit_Core)
+- [LinkedIn](https://www.linkedin.com/in/gauravsinghtangariya/)
+- Email: gauravst000@gmail.com
+
+## Commit Core Projects
+
+-
+
+
