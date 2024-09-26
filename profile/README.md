@@ -15,6 +15,6 @@ Connect with Gauravst
 
 Commit Core Projects
 
--
+- [Rhade KC Minerals](https://github.com/Gauravst/rhadeMinerals-PHP) - PHP Website
 
 
