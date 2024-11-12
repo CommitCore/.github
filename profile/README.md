@@ -11,7 +11,7 @@ Connect with Gauravst
 - [GitHub Profile](https://github.com/Gauravst)
 - [Twitter](https://x.com/Commit_Core)
 - [LinkedIn](https://www.linkedin.com/in/gauravsinghtangariya/)
-- Email: gauravst000@gmail.com
+- Email: mail@gauravst.in
 
 Commit Core Projects
 
